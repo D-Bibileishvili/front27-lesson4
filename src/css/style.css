@@ -29,8 +29,13 @@ li a{
 	padding: 95px;
 }
 
+.section-article p{
+	padding: 33px 25px 100px 12px;
+}
+
 h1{
 	font-size: 40px;
+/*	padding: 20px 100px 33px 12px;*/
 }
 
 h2{
