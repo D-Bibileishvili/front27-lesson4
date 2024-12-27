@@ -21,7 +21,7 @@ li{
 header li{
 	font-size: 20px;
 	padding-left: 100px;
-	padding-top: 73px;
+	padding-bottom: 73px;
 }
 
 /*section styles*/
@@ -48,6 +48,7 @@ h1{
 	font-size: 40px;
 	padding-left: 100px;
 	margin-top: 70px;
+	margin-bottom: 70px;
 }
 
 h2{
@@ -73,11 +74,12 @@ h3{
 	font-size: 20;
 }
 
-.contact{
+.misamarti{
 	font-size: 13px;
 }
 
 footer{
 	background-color: #2E2E2E;
 	padding: 67px 100px 78px 100px;
+	margin-top: 68px;
 }
