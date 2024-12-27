@@ -60,9 +60,5 @@ h3{
 
 footer{
 	background-color: #2E2E2E;
-
-	padding-top: 67px;
-	padding-right: 100px;
-	padding-bottom: 78px;
-	padding-left: 100px;
+	padding: 67px 100px 78px 100px;
 }
