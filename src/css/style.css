@@ -25,6 +25,8 @@ li a{
 .section-article article{
 	max-width: 483px;
 	width: 100%;
+
+	padding: 95px;
 }
 
 h1{
